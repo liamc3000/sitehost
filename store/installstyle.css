@@ -1,0 +1,75 @@
+body{
+margin:0;
+padding:0;
+line-height: 1.5em;
+}
+
+b{font-size: 110%;}
+em{color: red;}
+
+#maincontainer{
+padding-top: 100px;
+width: 1200px; /*Width of main container*/
+margin: 0 auto; /*Center container on page*/
+
+}
+
+#topsection{
+background: ;
+height: 90px; /*Height of top section*/
+font-size: 2.5em;
+padding-bottom: 20px;
+}
+
+#topsection h1{
+margin: 0;
+padding-top: 15px;
+}
+
+#topsection h2{
+margin: 0;
+font-size: 0.8em;
+}
+
+#contentwrapper{
+float: left;
+width: 100%;
+}
+
+#contentcolumn{
+margin-right: 600px; /*Set right margin to RightColumnWidth*/
+text-align: right;
+}
+
+
+#rightcolumn{
+float: right;
+width: 600px; /*Width of right column*/
+margin-left: -600px; /*Set left margin to -(RightColumnWidth) */
+text-align: left;
+}
+
+#footer{
+clear: left;
+width: 100%;
+text-align: center;
+padding: 4px 0;
+}
+
+#footer a{
+
+}
+
+#footer p
+	{
+		letter-spacing: 0.20em;
+		text-align: center;
+		text-transform: uppercase;
+		font-size: 0.80em;
+		color: #454445;
+	}
+
+.innertube{
+margin: 10px; /*Margins for inner DIV inside each column (to provide padding)*/
+margin-top: 0;
+}

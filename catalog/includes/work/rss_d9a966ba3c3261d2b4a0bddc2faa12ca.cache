@@ -1,0 +1,62 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:18:"osCommerce Add-Ons";s:4:"link";s:25:"http://www.oscommerce.com";s:11:"description";s:29:"osCommerce, Sell With Emotion";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2014 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:53:"http://www.oscommerce.com/images/oscommerce_88x31.gif";s:10:"image_link";s:25:"http://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:38:"Alternative Administration System v0.3";s:4:"link";s:38:"http://addons.oscommerce.com/info/9135";s:11:"description";s:2404:"Alternative Administration System is an essential plugin for osCommerce , specially designed for task delegation and product management. At it's core, AAS allows the end-user to utilize basic and advanced osCommerce administrative function with added features for dynamic product manipulation.<br />
+<br />
+And best of all, it's free.<br />
+<br />
+Amazing new features that will completely reinvent the way you use osCommerce, for advance and novice users alike.<br />
+It is what we like to call OFF-THE-CHAIN!<br />
+<br />
+Innovative way to manage products, and edit categories. Better multitasking tools with a new temporary products list. Sort and view your stock the way you want to with customized columns and category views. Display important product information directly in your full category view without having to run a special report. Easily manage and maintain your store's specials for products in a completely new way. Best of all is the completely reinvisioned Attribute Manager that allows for easy virtual product management. No more customer complaints because of faulty download paths.<br />
+<br />
+Coupled with the many available modules, you can turn your administration system into a complete all in one solution for your product management.<br />
+<br />
+Not sure what you may need? Check out the DEMO www.alternative-administration-system.com/demo and see what you are missing. Easy installation and upgrade. 5 Minute installation, with easy to use module upload installations. Alternative Administration System, the complete store management in one!<br />
+<br />
+Developed by the renowned John Barounis, osCommerce developer of the month award winner.<br />
+<br />
+Download: http://www.alternative-administration-system.com<br />
+<br />
+Watch demo: https://www.youtube.com/watch?v=ieFxPfZsUOE<br />
+<br />
+Demo: http://www.alternative-administration-system.com/demo<br />
+<br />
+Features: http://www.alternative-administration-system.com/features<br />
+<br />
+Screenshots: http://www.alternative-administration-system.com/screenshots<br />
+<br />
+Testimonials: http://www.alternative-administration-system.com/testimonials<br />
+<br />
+Discussion Board: http://www.alternative-administration-system.com/discussion-board<br />
+<br />
+Support: http://www.alternative-administration-system.com/support<br />
+<br />
+Donations: http://www.alternative-administration-system.com/donations";s:7:"pubDate";s:31:"Thu, 04 Sep 2014 13:26:01 +0200";}i:1;a:4:{s:5:"title";s:7:"payment";s:4:"link";s:38:"http://addons.oscommerce.com/info/9134";s:11:"description";s:17:"payment wall form";s:7:"pubDate";s:31:"Thu, 04 Sep 2014 04:19:46 +0200";}i:2;a:4:{s:5:"title";s:21:"Mail Manager for v2.3";s:4:"link";s:38:"http://addons.oscommerce.com/info/9133";s:11:"description";s:1995:"Mail Manager for OSCommerce v2.3<br />
+Mail Manager is designed to:<br />
+<br />
+1) Send all emails in html with a text alternative. With Mail Manager all emails can be created in html complete with images, links, logos, etc. This includes order confirmation, create account, password forgotten, status update, newsletters and tell-a-friend emails<br />
+2) Allow editing all of emails from the Admin, and for creating html templates that can be applied to all emails for a consistent and professional look.<br />
+3) Adds a special post sales follow-up email to send to customers who have recently made a purchase complete with images, descriptions, links of purchased products, links to leave product reviews, and if the Xsell module is installed, images, descriptions and links to recommended products. <br />
+4) Mail Manager adds product images to the customer initiated tell_a_friend email.<br />
+5) A search feature is added to the admin email that makes it simple to locate a customer and send them note, etc on a templated html email.<br />
+6) Control the rate, or speed, that emails are sent. This allows shops on shared web-hosting account to send large mailings without exceeding band-width limitations.<br />
+7) Target for newsletters and mailings any group of customers or mailing list entries that can be identified by php queries. For example you could create a mailing to customers who have purchased a certain product and who live in a single postal code. <br />
+<br />
+Download includes fully functional and editable example newsletters and templates.<br />
+<br />
+support thread:<br />
+<br />
+Mail Manager v2.3<br />
+http://forums.oscommerce.com/topic/397966-mail-manager-for-osc-v23/<br />
+<br />
+additional information at:<br />
+www dot css-oscommerce dot com/mail-manager-for-oscommerce-v2-3/<br />
+<br />
+(see below for Mail Manager for v2.2)<br />
+Mail Manager v2.2 <br />
+http://addons.oscommerce.com/info/8120<br />
+http://forums.oscommerce.com/topic/378371-mail-manager/";s:7:"pubDate";s:31:"Thu, 04 Sep 2014 04:09:48 +0200";}i:3;a:4:{s:5:"title";s:20:"Down for Maintenance";s:4:"link";s:38:"http://addons.oscommerce.com/info/7724";s:11:"description";s:224:"Down for Maintenance v2.4.2 with Master PW installed<br />
+<br />
+This is ONLY THE INSTRUCTIONS<br />
+<br />
+added how to incorporate within the configuration.php IF you have MD5 Master Password installed.<br />
+<br />
+enjoy";s:7:"pubDate";s:31:"Wed, 03 Sep 2014 17:04:54 +0200";}i:4;a:4:{s:5:"title";s:24:"Customers delete Account";s:4:"link";s:38:"http://addons.oscommerce.com/info/9132";s:11:"description";s:18:"Corrected zip file";s:7:"pubDate";s:31:"Wed, 03 Sep 2014 15:56:59 +0200";}}s:11:"items_count";i:5;}

@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+#wrapper { /*This is the blank space around my website*/
+	background-color: #FFF8DC; /*changes background colour*/
+	width: 1500px; /*size of div area*/
+	margin-right: auto; /*automatically calculates margin*/
+	margin-left: auto;
+}
+body {
+	background-color: #DEB887 ;
+}
+#banner { /*This is the websites main title bar*/
+	font-family: "Comic Sans MS", cursive; /*Selects font style to use*/
+	font-size: 48px; /*Changes font size*/
+	font-weight: bold; /*Changes font format*/
+	color: #630; /*Changes text colour*/
+	background-color: #008B8B; /*Make the backgroun an image*/
+	background-repeat: repeat-x; /*repeats image if not long enough*/
+	text-align: center; /*Places text in middle of area*/
+}
+#main { /*This is where all page content is inputted*/
+	font-family: Trebuchet MS, "Comic Sans MS";
+	font-size: 18px;
+	color: #FF0000;
+	margin-left: 260px;
+	padding-top: 4px; /*adds blank space above the area*/
+	overflow: auto; /*This extends area once its full of content*/
+	padding-left: 4px;
+	width: 70%; /*Allows content to be in 70% of the area size*/
+}
+#sidebar { /*This is where all navigation bars are stored*/
+	background-color: #20B2AA;
+	float: left; /*pushes content to left of space*/
+	height: 15cm; /*changes height of area*/
+	width: 260px;
+}
+#footer { /*This is the footer that will remain at bottom of website at all times*/
+	font-family: "Comic Sans MS", cursive;
+	font-size: 18px;
+	color: #630;
+	background-color: #008B8B;
+	margin-top: 0px;
+	height: auto;
+	clear: both; /*This attaches foot to bottom of lowest area so it always at bottom of page*/
+	text-align: center;
+}
+ul.nav {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+ul.nav a{
+	font-family: "Comic Sans MS", cursive;
+	font-size: 12px;
+	text-transform: uppercase; /*Makes all text CAPS*/
+	color: #630;
+	text-decoration: none; /*Removes any styling from text*/
+	display: block; /*separates navigation links into separate buttons*/
+	padding-top: 10px;
+	padding-left: 5px;
+	border-top-color: #440C0F; /*adds a border and changes colour*/
+	border-right-color: #440C0F;
+	border-bottom-color: #440C0F;
+	border-left-color: #440C0F;
+}
+ul.nav a:hover { /*This is the properties for hovering over a navigational list item*/
+	color: #F90909;
+}
+ul.nav.li { /*This is the formatting for the navigation list*/
+	display: inline;
+}
+h1 { /*This is the styling for any headings i use*/
+	font-family: "Comic Sans MS", cursive;
+	font-size: 36px;
+	font-weight: bold;
+}
+h2 { /*This is the styling for any headings i use*/
+	font-family: "Comic Sans MS", cursive;
+	font-size: 24px;
+	font-weight: bold;
+}
+p { /*This is the formatting for all paragraphs*/
+	font-family: "Comic Sans MS", cursive;
+	font-size: 18px;
+}
+a { /*This is the properties of a hyperlink*/
+	color: red;
+}
+#wrapper #main ul li { /*This adds formatting for all four different sections*/
+	list-style-type: circle; /*uses a circle as bullet points*/
+}
+
+
